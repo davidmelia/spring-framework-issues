@@ -8,6 +8,6 @@
 <body>
   <h1>Home</h1>
   <hr>
-  <a href="foo?age=21">/foo?age=21</a>
+  <a href="foo">/foo</a>
 </body>
 </html>
